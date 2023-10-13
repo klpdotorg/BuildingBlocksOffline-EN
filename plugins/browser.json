@@ -1,0 +1,77 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.jjdltc.cordova.plugin.zip": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-androidx": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-androidx-adapter": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-appsflyer-sdk": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-firebasex": {
+      "FIREBASE_ANALYTICS_COLLECTION_ENABLED": "true",
+      "FIREBASE_PERFORMANCE_COLLECTION_ENABLED": "true",
+      "FIREBASE_CRASHLYTICS_COLLECTION_ENABLED": "true",
+      "FIREBASE_FCM_AUTOINIT_ENABLED": "true",
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-fullscreen": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "nl.madebymark.share": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-native-spinner": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.example.DemoApp"
+    }
+  }
+}
